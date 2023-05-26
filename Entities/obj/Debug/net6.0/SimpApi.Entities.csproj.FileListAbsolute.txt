@@ -1,0 +1,14 @@
+C:\Users\ercan\source\repos\SimpraOdevv3\Entities\obj\Debug\net6.0\SimpApi.Entities.csproj.AssemblyReference.cache
+C:\Users\ercan\source\repos\SimpraOdevv3\Entities\obj\Debug\net6.0\SimpApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ercan\source\repos\SimpraOdevv3\Entities\obj\Debug\net6.0\SimpApi.Entities.AssemblyInfoInputs.cache
+C:\Users\ercan\source\repos\SimpraOdevv3\Entities\obj\Debug\net6.0\SimpApi.Entities.AssemblyInfo.cs
+C:\Users\ercan\source\repos\SimpraOdevv3\Entities\obj\Debug\net6.0\SimpApi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ercan\source\repos\SimpraOdevv3\Entities\bin\Debug\net6.0\SimpApi.Entities.deps.json
+C:\Users\ercan\source\repos\SimpraOdevv3\Entities\bin\Debug\net6.0\SimpApi.Entities.runtimeconfig.json
+C:\Users\ercan\source\repos\SimpraOdevv3\Entities\bin\Debug\net6.0\SimpApi.Entities.dll
+C:\Users\ercan\source\repos\SimpraOdevv3\Entities\bin\Debug\net6.0\SimpApi.Entities.pdb
+C:\Users\ercan\source\repos\SimpraOdevv3\Entities\obj\Debug\net6.0\SimpApi.Entities.dll
+C:\Users\ercan\source\repos\SimpraOdevv3\Entities\obj\Debug\net6.0\refint\SimpApi.Entities.dll
+C:\Users\ercan\source\repos\SimpraOdevv3\Entities\obj\Debug\net6.0\SimpApi.Entities.pdb
+C:\Users\ercan\source\repos\SimpraOdevv3\Entities\obj\Debug\net6.0\SimpApi.Entities.genruntimeconfig.cache
+C:\Users\ercan\source\repos\SimpraOdevv3\Entities\obj\Debug\net6.0\ref\SimpApi.Entities.dll

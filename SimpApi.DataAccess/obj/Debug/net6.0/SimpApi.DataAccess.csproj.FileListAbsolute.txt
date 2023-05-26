@@ -1,0 +1,15 @@
+C:\Users\ercan\source\repos\SimpraOdevv3\SimpApi.DataAccess\obj\Debug\net6.0\SimpApi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ercan\source\repos\SimpraOdevv3\SimpApi.DataAccess\obj\Debug\net6.0\SimpApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ercan\source\repos\SimpraOdevv3\SimpApi.DataAccess\obj\Debug\net6.0\SimpApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ercan\source\repos\SimpraOdevv3\SimpApi.DataAccess\obj\Debug\net6.0\SimpApi.DataAccess.AssemblyInfo.cs
+C:\Users\ercan\source\repos\SimpraOdevv3\SimpApi.DataAccess\obj\Debug\net6.0\SimpApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ercan\source\repos\SimpraOdevv3\SimpApi.DataAccess\bin\Debug\net6.0\SimpApi.DataAccess.deps.json
+C:\Users\ercan\source\repos\SimpraOdevv3\SimpApi.DataAccess\bin\Debug\net6.0\SimpApi.DataAccess.dll
+C:\Users\ercan\source\repos\SimpraOdevv3\SimpApi.DataAccess\bin\Debug\net6.0\SimpApi.DataAccess.pdb
+C:\Users\ercan\source\repos\SimpraOdevv3\SimpApi.DataAccess\bin\Debug\net6.0\SimpApi.Entities.dll
+C:\Users\ercan\source\repos\SimpraOdevv3\SimpApi.DataAccess\bin\Debug\net6.0\SimpApi.Entities.pdb
+C:\Users\ercan\source\repos\SimpraOdevv3\SimpApi.DataAccess\obj\Debug\net6.0\SimpApi.DataAccess.csproj.CopyComplete
+C:\Users\ercan\source\repos\SimpraOdevv3\SimpApi.DataAccess\obj\Debug\net6.0\SimpApi.DataAccess.dll
+C:\Users\ercan\source\repos\SimpraOdevv3\SimpApi.DataAccess\obj\Debug\net6.0\refint\SimpApi.DataAccess.dll
+C:\Users\ercan\source\repos\SimpraOdevv3\SimpApi.DataAccess\obj\Debug\net6.0\SimpApi.DataAccess.pdb
+C:\Users\ercan\source\repos\SimpraOdevv3\SimpApi.DataAccess\obj\Debug\net6.0\ref\SimpApi.DataAccess.dll
