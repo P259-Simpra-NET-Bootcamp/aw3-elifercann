@@ -8,6 +8,7 @@ odev icersinde sadece 2 modeli gonderiniz.
 
 
 #Ödev Açıklaması
+<br> <br>
 ProductController ve CategoryController olarak iki controller oluşturulup crud işlemleri tanımlandı.1-M relation işlemi ile yeniden modellendi.
 <br> <br>
 # Installation
