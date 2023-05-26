@@ -5,3 +5,20 @@ simapi projesindeki Category ve Product modelleri 1-M relation olacak sekilde ye
 Iki model icin iligli controllerlari yeniden duzenleyiniz. 
 Iki modeli iceren bir migration dosyasi hazirlayip ekleyiniz. 
 odev icersinde sadece 2 modeli gonderiniz. 
+
+
+#Ödev Açıklaması
+ProductController ve CategoryController olarak iki controller oluşturulup crud işlemleri tanımlandı.1-M relation işlemi ile yeniden modellendi.
+<br> <br>
+# Installation
+Öncelikle projeyi clonelayın <br> <br>
+git clone https://github.com/P259-Simpra-NET-Bootcamp/aw3-elifercann.git
+<br> <br>
+
+# Usage
+Projeyi cloneladıktan sonra Visual Studio programında açınız. <br> 
+
+<br> <br>
+# Contributing 
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+<br> <br>
